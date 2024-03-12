@@ -1,0 +1,33 @@
+@font-face {
+  font-family: poppins;
+  font-style: normal;
+  font-weight: 400;
+  src: local('Poppins'), url(https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff) format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: poppins;
+  font-style: normal;
+  font-weight: 400;
+  src: local('Poppins'), url(https://fonts.cdnfonts.com/s/16009/Poppins-Regular.woff) format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: poppins;
+  font-style: italic;
+  font-weight: 400;
+  src: local('Poppins'), url(https://fonts.cdnfonts.com/s/16009/Poppins-Italic.woff) format('woff');
+  font-display: swap;
+}
+
+/* ... similar rules for other weights and styles ... */
+
+@font-face {
+  font-family: poppins;
+  font-style: italic;
+  font-weight: 900;
+  src: local('Poppins'), url(https://fonts.cdnfonts.com/s/16009/Poppins-BlackItalic.woff) format('woff');
+  font-display: swap;
+}
